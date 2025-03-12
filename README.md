@@ -21,4 +21,19 @@ This script enhances user experience using **computer vision, deep learning, and
 ### 4️⃣ Real-Time Processing  
 - Continuously captures and analyzes webcam frames in a loop.  
 - Updates recommendations and generates new music when the detected emotion changes.  
-- The loop stops when the user presses **'q'**.  
+- The loop stops when the user presses **'q'**.
+
+## Prerequisites
+Ensure you have the following installed:
+
+-Python 3.8+
+
+-OpenCV (cv2)
+
+-DeepFace
+
+-Torch & Torchaudio
+
+-Transformers (Hugging Face)
+
+-Google API Client (YouTube API)
