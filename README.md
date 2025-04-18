@@ -17,20 +17,20 @@ MoodMelody uses AI to analyze your emotional state through your webcam and provi
 
 ## 📋 Requirements
 
-```
-streamlit
-opencv-python
-pillow
-numpy
-torch
-torchaudio
-soundfile
-colorama
-spotipy
-deepface
-transformers
-pandas
-```
+This application requires the following Python packages:
+
+- streamlit
+- opencv-python
+- pillow
+- numpy
+- torch
+- torchaudio
+- soundfile
+- colorama
+- spotipy
+- deepface
+- transformers
+- pandas
 
 ## 🚀 Setup and Installation
 
@@ -42,7 +42,7 @@ pandas
 
 2. Install dependencies:
    ```
-   pip install -r requirements.txt
+   pip install streamlit opencv-python pillow numpy torch torchaudio soundfile colorama spotipy deepface transformers pandas
    ```
 
 3. Add your Spotify API credentials:
